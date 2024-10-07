@@ -55,7 +55,7 @@
 ## 🤝 Contributing
 
 Have suggestions or ideas for new themes? We'd love to hear from you!
-Feel free to submit an issue or pull request on [GitHub](https://github.com/your-repo-link).
+Feel free to submit an issue or pull request on [GitHub](https://github.com/techtrigon/monokai-Dev/).
 
 ---
 
