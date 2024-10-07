@@ -1,0 +1,66 @@
+{
+  "name": "monokai-dev",
+  "displayName": "monokai Dev",
+  "description": "Dark & Colorful Custom Monokai-themes.",
+  "version": "0.0.1",
+  "type": "module",
+  "icon": "./images/logo.png",
+  "publisher": "DevVikramSingh",
+  "license": "GNU",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "vibrant",
+    "dark",
+    "colorful"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monokai Dev 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev2-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev3-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev4-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev5-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 6",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev6-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 7",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev7-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 8",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev8-color-theme.json"
+      }
+      , {
+        "label": "monokai Dev 9",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev9-color-theme.json"
+      }
+    ]
+  }
+}
